@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @jompilerz
-- 👀 I’m interested in EVERYTHING!
+test
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
